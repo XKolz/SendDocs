@@ -1,0 +1,13 @@
+[
+	{
+		"name": "SendDocs",
+		"host": "files.000webhost.com",
+		"port": 21,
+		"type": "ftp",
+		"username": "testphp1111",
+		"password": "Freshboi10",
+		"path": "/",
+		"autosave": true,
+		"confirm": false
+	}
+]
